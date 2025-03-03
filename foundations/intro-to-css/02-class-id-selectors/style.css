@@ -1,0 +1,16 @@
+.numbered{
+    background-color: rgb(255, 165, 165);
+    font-family:   'Verdana', 'Dejavu Sans', sans-serif;
+}
+.numbered.cooler{
+    font-size: 24px;
+}
+#number2{
+    color: blue;
+    font-size: 36px;
+}
+#number4{
+    background-color: rgb(130, 255, 130);
+    font-size: 24px;
+    font-weight: bold;
+}
